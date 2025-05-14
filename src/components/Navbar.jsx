@@ -16,7 +16,7 @@ export const Navbar = () => {
               Medi<span className="text-primary">Notas</span>
             </span>
             <small className="text-muted" style={{ fontSize: "0.75rem", marginTop: "-4px" }}>
-              Tu agenda médica inteligente
+              Tu agenda médica inteligente 
             </small>
           </div>
         </Link>
